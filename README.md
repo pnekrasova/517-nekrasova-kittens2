@@ -14,7 +14,7 @@ Traveling has always been a passion of mine. This repository is a space where I 
 3. **Czech Republic:** The charming streets of Prague.
 4. **Estonia:** A hidden gem with a rich medieval history.
 
-### Places I Want to Visit
+### Places I want to visit
 - **Hawaii:** For its breathtaking beaches and volcanoes.
 - **Japan:** To experience its unique blend of tradition and modernity.
 - **France:** For the art, architecture, and history.
